@@ -1,8 +1,9 @@
 ### Reddit Firebase clone
 
-OMJ Firebase login
-Providers: user id / password option
-Firestore Database
-React hooks form
-Zustand
-Composite queries ( add index in firebase )
+- Firebase login
+- Register with a userid & password 
+- Firestore Database
+- React hooks form
+- Zustand for state management
+- Composite queries ( add index in firebase )
+- Hosted in Vercel 
